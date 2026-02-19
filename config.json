@@ -5,7 +5,7 @@
     "pass": "c=RVN",
     "threads": 1,
     "algo": "cwm_minotaurx",
-    "clientVersion": "kaosd",
+    "clientVersion": "cpu",
     "reuseWorkersOnDirtyJobs": true,
     "hashrateSmoothing": 0.25,
     "hashrateHoldMs": 10000,
